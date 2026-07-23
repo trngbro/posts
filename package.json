@@ -1,0 +1,13 @@
+{
+  "name": "uploads-indexer",
+  "version": "1.0.0",
+  "description": "Auto-build index.json from uploads directory",
+  "main": "scripts/build-index.js",
+  "type": "commonjs",
+  "scripts": {
+    "build-index": "node scripts/build-index.js",
+    "test": "node --test tests/build-index.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

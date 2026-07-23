@@ -1,0 +1,751 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "parent": null,
+      "type": "root",
+      "data": {
+        "name": "root",
+        "path": "uploads"
+      }
+    },
+    {
+      "id": "content:uploads/a-little-twist-for-old-algorithms.md",
+      "parent": "file:uploads/a-little-twist-for-old-algorithms.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/a-little-twist-for-old-algorithms.md",
+        "uri": "/a-little-twist-for-old-algorithms",
+        "parent": null,
+        "title": "A little twist for old algorithms",
+        "excerpt": "Lately I’ve been brushing up on some of the classic algorithms – you know, those you once studied hard for exams, but over time they somehow slipped into the foggy corners of memory.\n\nInstead of just reading walls of text or re-watching lectures, I t",
+        "language": "markdown",
+        "metadata": {
+          "title": "A little twist for old algorithms",
+          "description": "Turning complex algorithms into simple, visual stories.",
+          "date": "2025-04-23",
+          "language": "en",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "algorithms",
+            "learning"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/auf-meinem-schreibtischn.md",
+      "parent": "file:uploads/auf-meinem-schreibtischn.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/auf-meinem-schreibtischn.md",
+        "uri": "/auf-meinem-schreibtischn",
+        "parent": null,
+        "title": "Auf meinem Schreibtischn",
+        "excerpt": "### Einfach die Dinge, die lange genug bleiben, um wichtig zu sein.\n\nMein Schreibtisch ist nie ein verrücktes PC-Setup gewesen.  \nKein RGB.  \nKein großer Tower.  \nKeine Monitor-Wand.\n\nNur ein Laptop.  \nEin paar Geräte.  \nUnd irgendwie erzählt jedes d",
+        "language": "markdown",
+        "metadata": {
+          "title": "Auf meinem Schreibtischn",
+          "description": "Kein Flex. Nur ein persönliches Logbuch über die Geräte, die wirklich bei mir bleiben – ruhig, nützlich und ein Teil von meinem Alltag.",
+          "date": "2024-12-12",
+          "language": "de",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog",
+            "on my desk",
+            "auf meinem Schreibtischn",
+            "engineering",
+            "experience"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/ca-mau-trong-toi.md",
+      "parent": "file:uploads/ca-mau-trong-toi.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/ca-mau-trong-toi.md",
+        "uri": "/ca-mau-trong-toi",
+        "parent": null,
+        "title": "Cà Mau trong tôi",
+        "excerpt": "Mảnh đất cuối cùng của Tổ quốc, nơi biển Đông gặp biển Tây và những kỷ niệm tuổi thơ mãi không phai.\n\n---\n\n## Đất Mũi thiên đường\n\nNhững nghề truyền thống như đặt rập bắt cua, thả lưới đánh cá vẫn được duy trì qua nhiều thế hệ. Vào ban đêm, khi thủy ",
+        "language": "markdown",
+        "metadata": {
+          "title": "Cà Mau trong tôi",
+          "description": "Trong tuổi thơ của tui",
+          "date": "2022-05-28",
+          "language": "vi",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog"
+          ],
+          "featured": false,
+          "hidden": true
+        }
+      }
+    },
+    {
+      "id": "content:uploads/chao-the-gioi.md",
+      "parent": "file:uploads/chao-the-gioi.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/chao-the-gioi.md",
+        "uri": "/chao-the-gioi",
+        "parent": null,
+        "title": "Bài viết đầu tiên",
+        "excerpt": "Xin chào, đây là bài viết đầu tiên của mình.  \nỞ đây, mình sẽ chia sẻ những câu chuyện thường ngày, nhưng thú thật là đôi khi lười thì chắc vài tháng mới có một bài cũng nên 😅.\n\nNơi này giống như một góc nhỏ để mình ghi lại suy nghĩ, trải nghiệm và ",
+        "language": "markdown",
+        "metadata": {
+          "title": "Bài viết đầu tiên",
+          "description": "Hi, Halo, Xin chào!",
+          "date": "2020-02-22",
+          "language": "vi",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/docs/guide.md",
+      "parent": "file:uploads/docs/guide.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/docs/guide.md",
+        "uri": "/docs/guide",
+        "parent": "/docs",
+        "title": "Guide Document",
+        "excerpt": "# Guide Document\nThis is the guide content.",
+        "language": "markdown"
+      }
+    },
+    {
+      "id": "content:uploads/docs/index.md",
+      "parent": "file:uploads/docs/index.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/docs/index.md",
+        "uri": "/docs",
+        "parent": null,
+        "title": null,
+        "excerpt": "# Docs Index\nIndex page for docs.",
+        "language": "markdown"
+      }
+    },
+    {
+      "id": "content:uploads/docs/sub/page.mdx",
+      "parent": "file:uploads/docs/sub/page.mdx",
+      "type": "content",
+      "data": {
+        "path": "uploads/docs/sub/page.mdx",
+        "uri": "/docs/sub/page",
+        "parent": "/docs/sub",
+        "title": "Sub Page MDX",
+        "excerpt": "# Sub Page MDX\nMDX page content.",
+        "language": "mdx"
+      }
+    },
+    {
+      "id": "content:uploads/guide.md",
+      "parent": "file:uploads/guide.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/guide.md",
+        "uri": "/guide",
+        "parent": null,
+        "title": null,
+        "excerpt": "# Root Guide\nRoot guide content.",
+        "language": "markdown"
+      }
+    },
+    {
+      "id": "content:uploads/hallo-welt.md",
+      "parent": "file:uploads/hallo-welt.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/hallo-welt.md",
+        "uri": "/hallo-welt",
+        "parent": null,
+        "title": "Erster Beitrag",
+        "excerpt": "Hallo, das ist mein erster Beitrag.  \nHier möchte ich alltägliche Geschichten mit dir teilen – aber ehrlich gesagt, wenn ich mal faul bin, kommt vielleicht nur alle paar Monate ein neuer Beitrag 😅.\n\nDieser Ort ist wie eine kleine Ecke, in der ich me",
+        "language": "markdown",
+        "metadata": {
+          "title": "Erster Beitrag",
+          "description": "Hi, Halo, Xin chào!",
+          "date": "2020-02-22",
+          "language": "de",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/hello-world.md",
+      "parent": "file:uploads/hello-world.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/hello-world.md",
+        "uri": "/hello-world",
+        "parent": null,
+        "title": "First Post",
+        "excerpt": "Hello, this is my very first post.  \nHere, I’ll be sharing everyday stories — though honestly, if I get lazy, it might only be once every few months 😅.\n\nThis place is like a little corner for me to jot down thoughts, experiences, and interesting thi",
+        "language": "markdown",
+        "metadata": {
+          "title": "First Post",
+          "description": "Hi, Halo, Xin chào!",
+          "date": "2020-02-22",
+          "language": "en",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/japanese-project.md",
+      "parent": "file:uploads/japanese-project.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/japanese-project.md",
+        "uri": "/japanese-project",
+        "parent": null,
+        "title": "Working with Japanese",
+        "excerpt": "![Japanese code screenshot](https://lh3.googleusercontent.com/d/1SCYP6ELnE113DrmGcTbsQVFGFT-P29bF=s2200?authuser=0)\n\n## When Code Stops Feeling Like Code\n\nWorking on Japanese client projects gives you a very unique experience.  \nYou open a source fil",
+        "language": "markdown",
+        "metadata": {
+          "title": "Working with Japanese",
+          "description": "A sarcastic yet honest reflection on the reality of coding in Japanese enterprise projects, where developers are constantly switching between programming and reading Japanese, juggling Kanji variables, detailed Japanese comments, and tightly structured business logic that feels more like an advanced language test than software development.",
+          "date": "2024-07-12",
+          "language": "en",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog",
+            "coding",
+            "japan",
+            "experience",
+            "software"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/khi-cai-moi-xuat-hien-cai-cu-dang-nghi.md",
+      "parent": "file:uploads/khi-cai-moi-xuat-hien-cai-cu-dang-nghi.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/khi-cai-moi-xuat-hien-cai-cu-dang-nghi.md",
+        "uri": "/khi-cai-moi-xuat-hien-cai-cu-dang-nghi",
+        "parent": null,
+        "title": "Khi cái mới xuất hiện, cái cũ bỗng thành... đáng nghi",
+        "excerpt": "## Một cảm giác quen quen mỗi khi “cái mới” xuất hiện\n\nCó lúc mình ngồi nghĩ lại và nhận ra một điều khá thú vị: cứ mỗi lần một thứ gì đó “mới mẻ, hiện đại, cải tiến” xuất hiện, thì thứ đã quen thuộc bao lâu nay bỗng nhiên bị kéo vào vòng nghi ngờ.\n\n",
+        "language": "markdown",
+        "metadata": {
+          "title": "Khi cái mới xuất hiện, cái cũ bỗng thành... đáng nghi",
+          "description": "Một góc nhìn cá nhân về những lần công nghệ, sản phẩm mới ra đời và vô tình biến những giá trị cũ thành thứ bị nghi ngờ. Không phán xét, chỉ kể lại và rủ mọi người cùng nhìn nhận rộng hơn.",
+          "date": "2025-10-30",
+          "language": "vi",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog",
+            "suy-nghi",
+            "xa-hoi",
+            "cuoc-song"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/my-gg-pixel-buds-pro.md",
+      "parent": "file:uploads/my-gg-pixel-buds-pro.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/my-gg-pixel-buds-pro.md",
+        "uri": "/my-gg-pixel-buds-pro",
+        "parent": null,
+        "title": "[MyChoice] Pixel Buds Pro",
+        "excerpt": "Sau khi đã quen với Pixel Watch 2, mình nghĩ: sao không thử luôn Pixel Buds Pro để bộ đôi trọn vẹn?  \nThế là mình mua, vừa tò mò, vừa hy vọng có thêm trải nghiệm khác biệt.\n\n---\n\n## Những ngày đầu sử dụng\n\nẤn tượng đầu tiên: đeo khá thoải mái, không ",
+        "language": "markdown",
+        "metadata": {
+          "title": "[MyChoice] Pixel Buds Pro",
+          "description": "Từ ý định ‘hoàn thiện hệ sinh thái’ đến khi chúng trở thành tai nghe mình hay dùng nhất.",
+          "date": "2025-11-13",
+          "language": "vi",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "earbuds",
+            "pixel"
+          ],
+          "featured": false,
+          "hidden": true
+        }
+      }
+    },
+    {
+      "id": "content:uploads/my-gg-pixel-watch-2.md",
+      "parent": "file:uploads/my-gg-pixel-watch-2.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/my-gg-pixel-watch-2.md",
+        "uri": "/my-gg-pixel-watch-2",
+        "parent": null,
+        "title": "[MyChoice] Pixel Watch 2",
+        "excerpt": "Khi Pixel Watch đời đầu ra mắt, mình có chút háo hức nhưng rồi lại thôi.  \nLúc đó, nhiều người nói pin yếu, cảm biến chưa ổn định, nên mình chỉ dừng lại ở Pixel 7.  \nĐến khi Pixel Watch 2 xuất hiện, mình đọc thấy nó đã khắc phục nhiều vấn đề.  \nThế l",
+        "language": "markdown",
+        "metadata": {
+          "title": "[MyChoice] Pixel Watch 2",
+          "description": "Từ sự do dự đến việc nó trở thành một phần quen thuộc trong ngày.",
+          "date": "2023-10-11",
+          "language": "vi",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "watch",
+            "pixel"
+          ],
+          "featured": false,
+          "hidden": true
+        }
+      }
+    },
+    {
+      "id": "content:uploads/nghich-ly-jevons.md",
+      "parent": "file:uploads/nghich-ly-jevons.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/nghich-ly-jevons.md",
+        "uri": "/nghich-ly-jevons",
+        "parent": null,
+        "title": "Nghịch lý Jevons: Vì sao càng tối ưu, mình lại càng mệt?",
+        "excerpt": "## Mình từng rất tin vào hai chữ “tối ưu”\n\nLàm lập trình, mình quen với việc nghĩ về tối ưu gần như mỗi ngày.  \nTối ưu code để chạy nhanh hơn.  \nTối ưu server để chịu được nhiều request hơn.  \nTối ưu quy trình để tiết kiệm thời gian.\n\nMình từng nghĩ ",
+        "language": "markdown",
+        "metadata": {
+          "title": "Nghịch lý Jevons: Vì sao càng tối ưu, mình lại càng mệt?",
+          "description": "Một bài ghi chép cá nhân về Nghịch lý Jevons, chuyện tối ưu trong công việc, và cảm giác lúc nào cũng bận rộn dù mọi thứ ngày càng nhanh và tiện hơn.",
+          "date": "2025-12-12",
+          "language": "vi",
+          "author": "Trung-Nghia Nguyen",
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/support-language.md",
+      "parent": "file:uploads/support-language.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/support-language.md",
+        "uri": "/support-language",
+        "parent": null,
+        "title": "Language Support",
+        "excerpt": "This is just a personal website, so language support is simple and limited. We keep things tidy and only provide what’s needed.\n\n## Current Language Support\n\n### Available Languages\n\n| Language | Status |\n|----------|:------:|\n| English | Available |",
+        "language": "markdown",
+        "metadata": {
+          "title": "Language Support",
+          "description": "Overview of available languages and translation guidelines for this personal website",
+          "date": "2025-10-01",
+          "language": "en",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "documentation",
+            "languages",
+            "i18n"
+          ],
+          "featured": false,
+          "hidden": true
+        }
+      }
+    },
+    {
+      "id": "content:uploads/tailwindcss-vs-bootstrap-which-the-better-for-2023.md",
+      "parent": "file:uploads/tailwindcss-vs-bootstrap-which-the-better-for-2023.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/tailwindcss-vs-bootstrap-which-the-better-for-2023.md",
+        "uri": "/tailwindcss-vs-bootstrap-which-the-better-for-2023",
+        "parent": null,
+        "title": "The year Tailwind truly took over",
+        "excerpt": "![TailwindCSS vs Bootstrap Cover](https://lh3.googleusercontent.com/d/1coslsWVclMZLrwsT8HrPcASkkEWesbEK=s2200)\n\n## 2023 – And Tailwind Was No Longer “Just a Trend”\n\n2021 felt like the year people *tried* Tailwind.  \n2022 felt like the year people *de",
+        "language": "markdown",
+        "metadata": {
+          "title": "The year Tailwind truly took over",
+          "description": "A personal reflection on why, even by 2023, developers kept choosing Tailwind CSS over Bootstrap — and why I eventually did the same.",
+          "date": "2023-08-10",
+          "language": "en",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog",
+            "frontend",
+            "tailwind",
+            "bootstrap",
+            "webdev",
+            "review"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/the-cost-of-tech-debt.md",
+      "parent": "file:uploads/the-cost-of-tech-debt.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/the-cost-of-tech-debt.md",
+        "uri": "/the-cost-of-tech-debt",
+        "parent": null,
+        "title": "The cost of tech debt",
+        "excerpt": "![Technical Debt Cover](https://lh3.googleusercontent.com/d/1OM9G9G_TJ2_9wIAPY-DOsauHxHEY3WIs=s2200)\n\n## When “We’ll Refactor Later” Finally Catches Up\n\nIf you’ve worked in software long enough, you’ve probably said something like this:\n\n> “Let’s jus",
+        "language": "markdown",
+        "metadata": {
+          "title": "The cost of tech debt",
+          "description": "When those 'temporary' code shortcuts from two years ago come back to haunt you — a personal reflection on technical debt, why it hurts, and what balancing speed vs. quality truly means.",
+          "date": "2024-10-12",
+          "language": "en",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog",
+            "software",
+            "tech debt",
+            "engineering",
+            "experience"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "content:uploads/the-n-1-query-problem.md",
+      "parent": "file:uploads/the-n-1-query-problem.md",
+      "type": "content",
+      "data": {
+        "path": "uploads/the-n-1-query-problem.md",
+        "uri": "/the-n-1-query-problem",
+        "parent": null,
+        "title": "Turning an N+1 Query into a Single Query",
+        "excerpt": "![N+1 Problem example](https://lh3.googleusercontent.com/d/1Yo9QPvBl0zKv0TWgwGeirRnyr4nW680W=s2200?authuser=0)\n\n## The N+1 Query Pattern\n\nOne of the most common performance issues in backend development is the N+1 query problem. It usually occurs whe",
+        "language": "markdown",
+        "metadata": {
+          "title": "Turning an N+1 Query into a Single Query",
+          "description": "A real-world reflection on identifying the N+1 query pattern in a payment history endpoint and how restructuring data access fixed a major performance bottleneck.",
+          "date": "2026-03-13",
+          "language": "en",
+          "author": "Trung-Nghia Nguyen",
+          "tags": [
+            "blog",
+            "backend",
+            "dotnet",
+            "performance",
+            "database"
+          ],
+          "featured": false
+        }
+      }
+    },
+    {
+      "id": "file:uploads/a-little-twist-for-old-algorithms.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "a-little-twist-for-old-algorithms.md",
+        "path": "uploads/a-little-twist-for-old-algorithms.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "a327c32e70f958ca9ca2125fe2b1523f44081eb4f9e41bfbb26b5823dcd53624",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/auf-meinem-schreibtischn.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "auf-meinem-schreibtischn.md",
+        "path": "uploads/auf-meinem-schreibtischn.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "f831fcf9349c771bb5b121272190110561abb175c3e04c1b7444c5763ea54cf6",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/ca-mau-trong-toi.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "ca-mau-trong-toi.md",
+        "path": "uploads/ca-mau-trong-toi.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "3877096cfc4146f2cd6f59d08c7a1f617166aaef56d194e21fcb66793c763acc",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/chao-the-gioi.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "chao-the-gioi.md",
+        "path": "uploads/chao-the-gioi.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "317aafc77f00d0a9df6c5ff19e35f3d6f61ef8627e9ede242e15618900f97d16",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/docs/guide.md",
+      "parent": "folder:uploads/docs",
+      "type": "file",
+      "data": {
+        "name": "guide.md",
+        "path": "uploads/docs/guide.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "8b0d47d708caeb39a504dc8c28f6c2c719f4aaaf4a1c554fd209026ffbfee960",
+        "updated_at": "2026-07-23T07:35:56.370Z"
+      }
+    },
+    {
+      "id": "file:uploads/docs/index.md",
+      "parent": "folder:uploads/docs",
+      "type": "file",
+      "data": {
+        "name": "index.md",
+        "path": "uploads/docs/index.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "35cd96215f5c0cd3d8d6f8759a424513153b83f78cbf7c80aee6295f02a6acdb",
+        "updated_at": "2026-07-23T07:35:56.370Z"
+      }
+    },
+    {
+      "id": "file:uploads/docs/sub/page.mdx",
+      "parent": "folder:uploads/docs/sub",
+      "type": "file",
+      "data": {
+        "name": "page.mdx",
+        "path": "uploads/docs/sub/page.mdx",
+        "extension": ".mdx",
+        "is_markdown": true,
+        "hash": "106120af60f298a00d36b164b027705a1bc4a6f0982545d5351ceffceb22452d",
+        "updated_at": "2026-07-23T07:35:56.370Z"
+      }
+    },
+    {
+      "id": "file:uploads/guide.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "guide.md",
+        "path": "uploads/guide.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "641aab534e8781ee58e3c925740be20583ec48a3f1af88b24bb2066283821480",
+        "updated_at": "2026-07-23T07:35:56.370Z"
+      }
+    },
+    {
+      "id": "file:uploads/hallo-welt.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "hallo-welt.md",
+        "path": "uploads/hallo-welt.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "f040f0a9e5daab2401019ef36236a0076e886662bd8dcece8625132e71a09a1e",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/hello-world.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "hello-world.md",
+        "path": "uploads/hello-world.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "630a53e616fb0fbf1845f0a2de4a0cfc9d2f2b67f9fb2470980f0efd51c98a2d",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/images/diagram.png",
+      "parent": "folder:uploads/images",
+      "type": "file",
+      "data": {
+        "name": "diagram.png",
+        "path": "uploads/images/diagram.png",
+        "extension": ".png",
+        "is_markdown": false,
+        "hash": "f272efe99fdb31cced6f5945bbd17f2adde5f0456d1d1af9f6ebc6a01539bfb9",
+        "updated_at": "2026-07-23T07:35:56.370Z"
+      }
+    },
+    {
+      "id": "file:uploads/japanese-project.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "japanese-project.md",
+        "path": "uploads/japanese-project.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "4e626084bae9cdc2a45c5b8386b9130788c35bca06b34937e72bc62fc98436ad",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/khi-cai-moi-xuat-hien-cai-cu-dang-nghi.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "khi-cai-moi-xuat-hien-cai-cu-dang-nghi.md",
+        "path": "uploads/khi-cai-moi-xuat-hien-cai-cu-dang-nghi.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "b337fd8cbe8dde7027242d88326281c1a3a88bc49ce507f36121b4f273a9c3d4",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/my-gg-pixel-buds-pro.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "my-gg-pixel-buds-pro.md",
+        "path": "uploads/my-gg-pixel-buds-pro.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "c249795fba7b54f172ae332550bc2e153082deff5805f32a319db56436c3ccac",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/my-gg-pixel-watch-2.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "my-gg-pixel-watch-2.md",
+        "path": "uploads/my-gg-pixel-watch-2.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "9bf05e791159c936833e64362e28c682145d43425326311a56e7ba7b0bd0e39e",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/nghich-ly-jevons.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "nghich-ly-jevons.md",
+        "path": "uploads/nghich-ly-jevons.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "f31c38a1057e90721d510077469a7f28f47a7dbea7772fcb518fb91b86c53853",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/support-language.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "support-language.md",
+        "path": "uploads/support-language.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "b60ab94779fde8fc5dabb7c5fd01bf90df7777da9763b9e9a371eca8b21a9e13",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/tailwindcss-vs-bootstrap-which-the-better-for-2023.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "tailwindcss-vs-bootstrap-which-the-better-for-2023.md",
+        "path": "uploads/tailwindcss-vs-bootstrap-which-the-better-for-2023.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "3a6f1486e9a1ec02ac3a382f307800ab8940b6bd5e93c826fc168cb707838123",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/the-cost-of-tech-debt.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "the-cost-of-tech-debt.md",
+        "path": "uploads/the-cost-of-tech-debt.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "4659863ec0f28678878523bc55d59b7d3f886ce3b55f61717fd02bce6e7f700b",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "file:uploads/the-n-1-query-problem.md",
+      "parent": "folder:uploads",
+      "type": "file",
+      "data": {
+        "name": "the-n-1-query-problem.md",
+        "path": "uploads/the-n-1-query-problem.md",
+        "extension": ".md",
+        "is_markdown": true,
+        "hash": "5d3c8d6473505c820b2a88c9e98ac554a6cab92f58356647a9e2747d85ad349b",
+        "updated_at": "2026-07-23T07:39:57.776Z"
+      }
+    },
+    {
+      "id": "folder:uploads",
+      "parent": "root",
+      "type": "folder",
+      "data": {
+        "name": "uploads",
+        "path": "uploads"
+      }
+    },
+    {
+      "id": "folder:uploads/docs",
+      "parent": "folder:uploads",
+      "type": "folder",
+      "data": {
+        "name": "docs",
+        "path": "uploads/docs"
+      }
+    },
+    {
+      "id": "folder:uploads/docs/sub",
+      "parent": "folder:uploads/docs",
+      "type": "folder",
+      "data": {
+        "name": "sub",
+        "path": "uploads/docs/sub"
+      }
+    },
+    {
+      "id": "folder:uploads/images",
+      "parent": "folder:uploads",
+      "type": "folder",
+      "data": {
+        "name": "images",
+        "path": "uploads/images"
+      }
+    }
+  ]
+}
