@@ -112,45 +112,6 @@
       }
     },
     {
-      "id": "content:uploads/docs/guide.md",
-      "parent": "file:uploads/docs/guide.md",
-      "type": "content",
-      "data": {
-        "path": "uploads/docs/guide.md",
-        "uri": "/docs/guide",
-        "parent": "/docs",
-        "title": "Guide Document",
-        "excerpt": "# Guide Document\nThis is the guide content.",
-        "language": "markdown"
-      }
-    },
-    {
-      "id": "content:uploads/docs/index.md",
-      "parent": "file:uploads/docs/index.md",
-      "type": "content",
-      "data": {
-        "path": "uploads/docs/index.md",
-        "uri": "/docs",
-        "parent": null,
-        "title": null,
-        "excerpt": "# Docs Index\nIndex page for docs.",
-        "language": "markdown"
-      }
-    },
-    {
-      "id": "content:uploads/docs/sub/page.mdx",
-      "parent": "file:uploads/docs/sub/page.mdx",
-      "type": "content",
-      "data": {
-        "path": "uploads/docs/sub/page.mdx",
-        "uri": "/docs/sub/page",
-        "parent": "/docs/sub",
-        "title": "Sub Page MDX",
-        "excerpt": "# Sub Page MDX\nMDX page content.",
-        "language": "mdx"
-      }
-    },
-    {
       "id": "content:uploads/guide.md",
       "parent": "file:uploads/guide.md",
       "type": "content",
@@ -504,45 +465,6 @@
       }
     },
     {
-      "id": "file:uploads/docs/guide.md",
-      "parent": "folder:uploads/docs",
-      "type": "file",
-      "data": {
-        "name": "guide.md",
-        "path": "uploads/docs/guide.md",
-        "extension": ".md",
-        "is_markdown": true,
-        "hash": "8b0d47d708caeb39a504dc8c28f6c2c719f4aaaf4a1c554fd209026ffbfee960",
-        "updated_at": "2026-07-23T07:35:56.370Z"
-      }
-    },
-    {
-      "id": "file:uploads/docs/index.md",
-      "parent": "folder:uploads/docs",
-      "type": "file",
-      "data": {
-        "name": "index.md",
-        "path": "uploads/docs/index.md",
-        "extension": ".md",
-        "is_markdown": true,
-        "hash": "35cd96215f5c0cd3d8d6f8759a424513153b83f78cbf7c80aee6295f02a6acdb",
-        "updated_at": "2026-07-23T07:35:56.370Z"
-      }
-    },
-    {
-      "id": "file:uploads/docs/sub/page.mdx",
-      "parent": "folder:uploads/docs/sub",
-      "type": "file",
-      "data": {
-        "name": "page.mdx",
-        "path": "uploads/docs/sub/page.mdx",
-        "extension": ".mdx",
-        "is_markdown": true,
-        "hash": "106120af60f298a00d36b164b027705a1bc4a6f0982545d5351ceffceb22452d",
-        "updated_at": "2026-07-23T07:35:56.370Z"
-      }
-    },
-    {
       "id": "file:uploads/guide.md",
       "parent": "folder:uploads",
       "type": "file",
@@ -579,19 +501,6 @@
         "is_markdown": true,
         "hash": "630a53e616fb0fbf1845f0a2de4a0cfc9d2f2b67f9fb2470980f0efd51c98a2d",
         "updated_at": "2026-07-23T07:39:57.776Z"
-      }
-    },
-    {
-      "id": "file:uploads/images/diagram.png",
-      "parent": "folder:uploads/images",
-      "type": "file",
-      "data": {
-        "name": "diagram.png",
-        "path": "uploads/images/diagram.png",
-        "extension": ".png",
-        "is_markdown": false,
-        "hash": "f272efe99fdb31cced6f5945bbd17f2adde5f0456d1d1af9f6ebc6a01539bfb9",
-        "updated_at": "2026-07-23T07:35:56.370Z"
       }
     },
     {
@@ -718,33 +627,6 @@
       "data": {
         "name": "uploads",
         "path": "uploads"
-      }
-    },
-    {
-      "id": "folder:uploads/docs",
-      "parent": "folder:uploads",
-      "type": "folder",
-      "data": {
-        "name": "docs",
-        "path": "uploads/docs"
-      }
-    },
-    {
-      "id": "folder:uploads/docs/sub",
-      "parent": "folder:uploads/docs",
-      "type": "folder",
-      "data": {
-        "name": "sub",
-        "path": "uploads/docs/sub"
-      }
-    },
-    {
-      "id": "folder:uploads/images",
-      "parent": "folder:uploads",
-      "type": "folder",
-      "data": {
-        "name": "images",
-        "path": "uploads/images"
       }
     }
   ]
