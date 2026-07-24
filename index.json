@@ -112,19 +112,6 @@
       }
     },
     {
-      "id": "content:uploads/guide.md",
-      "parent": "file:uploads/guide.md",
-      "type": "content",
-      "data": {
-        "path": "uploads/guide.md",
-        "uri": "/guide",
-        "parent": null,
-        "title": null,
-        "excerpt": "# Root Guide\nRoot guide content.",
-        "language": "markdown"
-      }
-    },
-    {
       "id": "content:uploads/hallo-welt.md",
       "parent": "file:uploads/hallo-welt.md",
       "type": "content",
@@ -462,19 +449,6 @@
         "is_markdown": true,
         "hash": "317aafc77f00d0a9df6c5ff19e35f3d6f61ef8627e9ede242e15618900f97d16",
         "updated_at": "2026-07-23T07:39:57.776Z"
-      }
-    },
-    {
-      "id": "file:uploads/guide.md",
-      "parent": "folder:uploads",
-      "type": "file",
-      "data": {
-        "name": "guide.md",
-        "path": "uploads/guide.md",
-        "extension": ".md",
-        "is_markdown": true,
-        "hash": "641aab534e8781ee58e3c925740be20583ec48a3f1af88b24bb2066283821480",
-        "updated_at": "2026-07-23T07:35:56.370Z"
       }
     },
     {
